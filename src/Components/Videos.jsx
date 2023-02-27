@@ -25,14 +25,14 @@ const Videos = () => {
 
   return (
     <Stack direction={['column', 'row']} h={'100vh'}>
-      <VStack w={'full'} p={'8'}>
+      <VStack w={'full'} p={'8'} h={['70vh','100vh']}>
         {/* <video
           controls
           controlsList="nodownload"
          
           style={{ width: '100%' }}
         ></video> */}
-        <ReactPlayer url={videoSrc} controls style={{width:'100%'}}></ReactPlayer>
+        <ReactPlayer url={videoSrc} controls width='100%'></ReactPlayer>
        
          <VStack  overflowY="scroll" alignItems={'flex-start'} p={'8'} w={'full'}>
          <Heading>{titlesrc}</Heading>
