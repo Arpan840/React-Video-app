@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Video-app/static/css/main.8eb20739.css",
-    "main.js": "/React-Video-app/static/js/main.1cfeff73.js",
+    "main.js": "/React-Video-app/static/js/main.6ea73c1b.js",
     "static/media/t2.webp": "/React-Video-app/static/media/t2.0033a0e0245fa94a3c9c.webp",
     "static/media/3.webp": "/React-Video-app/static/media/3.ab19fbe891c753f8c0dd.webp",
     "static/media/t5.webp": "/React-Video-app/static/media/t5.9b16b1cccc83a11e0534.webp",
@@ -15,10 +15,10 @@
     "static/media/t4.jpg": "/React-Video-app/static/media/t4.79b49947e5ef35c7eade.jpg",
     "index.html": "/React-Video-app/index.html",
     "main.8eb20739.css.map": "/React-Video-app/static/css/main.8eb20739.css.map",
-    "main.1cfeff73.js.map": "/React-Video-app/static/js/main.1cfeff73.js.map"
+    "main.6ea73c1b.js.map": "/React-Video-app/static/js/main.6ea73c1b.js.map"
   },
   "entrypoints": [
     "static/css/main.8eb20739.css",
-    "static/js/main.1cfeff73.js"
+    "static/js/main.6ea73c1b.js"
   ]
 }
